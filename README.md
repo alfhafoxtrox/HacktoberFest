@@ -10,4 +10,4 @@ Some  successful start ups of our college alumni and students are as follows:
 4.      Edusources
 5.      IpuHub
 6.      Newshq
-
+7.      Delhipreneurs
